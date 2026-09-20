@@ -12,10 +12,9 @@ O piloto do Capítulo 2 aborda regressão linear, mínimos quadrados e descida d
 Usa somente NumPy e Matplotlib, com dados sintéticos gerados no próprio notebook. Não requer GPU.
 
 - [Abrir o notebook](notebooks/capitulo02/01_regressao_linear_gradiente.ipynb)
-- [Executar no Google Colab](https://colab.research.google.com/github/rkunst/LivroML/blob/estrutura-inicial/notebooks/capitulo02/01_regressao_linear_gradiente.ipynb)
+- [Executar no Google Colab](https://colab.research.google.com/github/rkunst/LivroML/blob/main/notebooks/capitulo02/01_regressao_linear_gradiente.ipynb)
 - [Instruções de execução](docs/execucao.md)
 
-O link do Colab aponta para a branch de revisão `estrutura-inicial`; após a integração, deverá apontar para `main`.
 A execução em Colab ainda precisa ser verificada nessa plataforma.
 
 ## Organização por capítulo
